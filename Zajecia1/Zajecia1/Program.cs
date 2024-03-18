@@ -10,11 +10,11 @@ public class Program
         int c = a / b;
         if (a > 6)
         {
-            Console.WriteLine(a);
+            Console.WriteLine("Max" + a);
         }
         else
         {
-            Console.WriteLine(b);
+            Console.WriteLine("Max" + b);
         }
     }
 }
